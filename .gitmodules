@@ -1,0 +1,3 @@
+[submodule "airootfs/usr/share/sddm/themes/sddm_wynn-theme-1.2"]
+	path = airootfs/usr/share/sddm/themes/sddm_wynn-theme-1.2
+	url = https://github.com/m-wynn/sddm_wynn-theme.git
